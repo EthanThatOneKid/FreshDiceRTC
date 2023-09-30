@@ -1,0 +1,70 @@
+
+.container { 
+    background-color: snow;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 400px;
+    grid-template-rows: 150px 400px;
+    overflow: hidden;
+}
+
+.rollContainer {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 100px 5px 120px 5px 100px;
+    grid-template-rows: 45px 5px;
+    column-gap: 2px;
+    row-gap: 5px;
+}
+
+.player0 { 
+    grid-row: 1; 
+    grid-column: 1; 
+}
+
+.rollBtnPosition { 
+    grid-row: 1; 
+    grid-column: 3; 
+}   
+ 
+.player1 { 
+    grid-row: 1; 
+    grid-column: 5; 
+}
+
+.diceContainer {
+    grid-row: 1; grid-column: 1;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 72px 72px 72px 72px 72px;
+    grid-template-rows: 60px 10px;
+    column-gap: 2px;
+    row-gap: 2px;
+}
+
+.scoreContainer {
+    grid-row: 2; grid-column: 1;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 85px 85px 5px 85px 85px;
+    grid-template-rows: 85px 85px 85px 85px;
+    column-gap: 5px;
+    row-gap: 5px;
+}
+
+.score-0 { grid-row: 1; grid-column: 1; } /* ones */
+.score-1 { grid-row: 1; grid-column: 2; } /* twos */
+.score-2 { grid-row: 2; grid-column: 1; } /* threes */
+.score-3 { grid-row: 2; grid-column: 2; } /* fours */
+.score-4 { grid-row: 3; grid-column: 1; } /* fives */
+.score-5 { grid-row: 3; grid-column: 2; } /* sixes */
+
+.score-6 { grid-row: 1; grid-column: 4; } /* 3-o-kind */
+.score-7 { grid-row: 1; grid-column: 5; } /* 4-o-kind */
+.score-8 { grid-row: 2; grid-column: 4; } /* small-st */
+.score-9 { grid-row: 2; grid-column: 5; } /* large-st */
+.score-10 { grid-row: 3; grid-column: 4; } /* full house */
+.score-11 { grid-row: 3; grid-column: 5; } /* 5-o-kind */
+.score-12 { grid-row: 4; grid-column: 4; } /* chance */
+.leftScoresLabel { grid-row: 4; grid-column: 1; } /* left scores */
+.info { grid-row: 5; grid-column: 1/5;} /* InfoLabel */
