@@ -7,15 +7,10 @@ SEE: https://github.com/nhrones/comms
  
 The fun thing about the multiplayer game is that players are allowed    
 to 'steal' other players score items if they roll a greater sum for that item.    
-### Usage
 
-HeeHee ... snicker-sniker ... click img to try it out!    
-Start the project:
-
-[![dice](./dice.png)](https://fresh-dice.deno.dev/)    
-  
+[![dice](./dice.png)]()
    
-Usage:
+### Usage:
 ```
 Open one or two instances of the app. 
 Each instance will show a unique color icon in the tab.
@@ -28,8 +23,9 @@ After three rolls, you must select a score item.
 The blue highlighted numbers indicate possible scores that are available to select.
 You may steal any other players score-item if a blue score is shown.
 Have fun!
+```
+### NOTE:
+I no longer use Deno Deploy, but you're welcome to make and run your own local repo.
+```
 deno task start
 ```
-
-## Run the app from Deploy
-https://fresh-dice.deno.dev/ 
