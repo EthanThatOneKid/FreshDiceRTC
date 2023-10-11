@@ -25,7 +25,7 @@ You may steal any other players score-item if a blue score is shown.
 Have fun!
 ```
 ### NOTE:
-I no longer use Deno Deploy, but you're welcome to make and run your own local repo.
+Try it on Deploy
 ```
-deno task start
+https://fresh-dice.deno.dev/
 ```
