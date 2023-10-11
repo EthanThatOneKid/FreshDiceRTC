@@ -26,6 +26,5 @@ Have fun!
 ```
 ### NOTE:
 Try it on Deploy
-```
+
 https://fresh-dice.deno.dev/
-```
