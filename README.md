@@ -8,6 +8,9 @@ SEE: https://github.com/nhrones/comms
 The fun thing about the multiplayer game is that players are allowed    
 to 'steal' other players score items if they roll a greater sum for that item.    
 
+## Try it on Deploy
+https://fresh-dice.deno.dev/
+
 [![dice](./dice.png)]()
    
 ### Usage:
