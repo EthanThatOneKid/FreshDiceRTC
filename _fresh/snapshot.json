@@ -1,0 +1,172 @@
+{
+  "build_id": "b1c6f4fac80e131c04623e9752a1c0b98ea5b2b6",
+  "files": {
+    "island-popup_default.js": [
+      "chunk-LGCMXOJL.js",
+      "chunk-FW6O5JPS.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js",
+      "chunk-WFGDLHPR.js"
+    ],
+    "island-scorebutton_default.js": [
+      "chunk-Q6M46N6W.js",
+      "chunk-LW3DSM7G.js",
+      "chunk-FW6O5JPS.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js",
+      "chunk-WFGDLHPR.js"
+    ],
+    "island-scores_default.js": [
+      "chunk-P7XZDJAU.js",
+      "chunk-Q6M46N6W.js",
+      "chunk-QCNJXW6T.js",
+      "chunk-LW3DSM7G.js",
+      "chunk-MWQOEWO2.js",
+      "chunk-I5ONZ64L.js",
+      "chunk-JEXN7WK4.js",
+      "chunk-FW6O5JPS.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js",
+      "chunk-WFGDLHPR.js"
+    ],
+    "island-sounds_default.js": [
+      "chunk-6VLDROZ2.js",
+      "chunk-MWQOEWO2.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js",
+      "chunk-WFGDLHPR.js"
+    ],
+    "island-viewcontroller_default.js": [
+      "chunk-LGCMXOJL.js",
+      "chunk-P7XZDJAU.js",
+      "chunk-Q6M46N6W.js",
+      "chunk-6VLDROZ2.js",
+      "chunk-4MICTWCP.js",
+      "chunk-QCNJXW6T.js",
+      "chunk-LW3DSM7G.js",
+      "chunk-MWQOEWO2.js",
+      "chunk-I5ONZ64L.js",
+      "chunk-2GNEBUQU.js",
+      "chunk-JEXN7WK4.js",
+      "chunk-OE6BGHDS.js",
+      "chunk-FW6O5JPS.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js",
+      "chunk-WFGDLHPR.js"
+    ],
+    "chunk-LGCMXOJL.js": [
+      "chunk-FW6O5JPS.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js"
+    ],
+    "chunk-P7XZDJAU.js": [
+      "chunk-Q6M46N6W.js",
+      "chunk-QCNJXW6T.js",
+      "chunk-JEXN7WK4.js",
+      "chunk-6QNS3HZL.js"
+    ],
+    "chunk-Q6M46N6W.js": [
+      "chunk-LW3DSM7G.js",
+      "chunk-FW6O5JPS.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js"
+    ],
+    "chunk-6VLDROZ2.js": [
+      "chunk-MWQOEWO2.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js"
+    ],
+    "main.js": [
+      "chunk-QI2WNBYA.js",
+      "chunk-WFGDLHPR.js"
+    ],
+    "deserializer.js": [],
+    "signals.js": [
+      "chunk-QI2WNBYA.js",
+      "chunk-RGACBSTN.js",
+      "chunk-WFGDLHPR.js"
+    ],
+    "chunk-QI2WNBYA.js": [],
+    "island-canvas_default.js": [
+      "chunk-I5ONZ64L.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js",
+      "chunk-WFGDLHPR.js"
+    ],
+    "island-die_default.js": [
+      "chunk-4MICTWCP.js",
+      "chunk-QCNJXW6T.js",
+      "chunk-LW3DSM7G.js",
+      "chunk-MWQOEWO2.js",
+      "chunk-I5ONZ64L.js",
+      "chunk-FW6O5JPS.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js",
+      "chunk-WFGDLHPR.js"
+    ],
+    "chunk-4MICTWCP.js": [
+      "chunk-QCNJXW6T.js",
+      "chunk-LW3DSM7G.js",
+      "chunk-I5ONZ64L.js",
+      "chunk-FW6O5JPS.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js"
+    ],
+    "chunk-QCNJXW6T.js": [
+      "chunk-LW3DSM7G.js",
+      "chunk-MWQOEWO2.js",
+      "chunk-I5ONZ64L.js",
+      "chunk-FW6O5JPS.js"
+    ],
+    "chunk-LW3DSM7G.js": [
+      "chunk-FW6O5JPS.js"
+    ],
+    "chunk-MWQOEWO2.js": [],
+    "chunk-I5ONZ64L.js": [],
+    "island-infolabel_default.js": [
+      "chunk-2GNEBUQU.js",
+      "chunk-FW6O5JPS.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js",
+      "chunk-WFGDLHPR.js"
+    ],
+    "chunk-2GNEBUQU.js": [
+      "chunk-FW6O5JPS.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js"
+    ],
+    "island-leftscores_default.js": [
+      "chunk-JEXN7WK4.js",
+      "chunk-FW6O5JPS.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js",
+      "chunk-WFGDLHPR.js"
+    ],
+    "chunk-JEXN7WK4.js": [
+      "chunk-FW6O5JPS.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js"
+    ],
+    "island-player_default.js": [
+      "chunk-OE6BGHDS.js",
+      "chunk-FW6O5JPS.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js",
+      "chunk-WFGDLHPR.js"
+    ],
+    "chunk-OE6BGHDS.js": [
+      "chunk-FW6O5JPS.js",
+      "chunk-6QNS3HZL.js",
+      "chunk-RGACBSTN.js"
+    ],
+    "chunk-FW6O5JPS.js": [],
+    "chunk-6QNS3HZL.js": [
+      "chunk-WFGDLHPR.js"
+    ],
+    "chunk-RGACBSTN.js": [
+      "chunk-WFGDLHPR.js"
+    ],
+    "chunk-WFGDLHPR.js": [],
+    "metafile.json": []
+  }
+}

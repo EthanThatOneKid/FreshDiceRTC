@@ -1,0 +1,1 @@
+import{b as n}from"./chunk-MWQOEWO2.js";import{a as t}from"./chunk-6QNS3HZL.js";import{b as o}from"./chunk-RGACBSTN.js";var u;function e(){return o(()=>{let d=window.AudioContext;u=new d,n(u)},[]),t("audio",{})}export{u as a,e as b};

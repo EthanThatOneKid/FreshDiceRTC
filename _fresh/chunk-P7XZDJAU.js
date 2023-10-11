@@ -1,0 +1,1 @@
+import{a as e}from"./chunk-Q6M46N6W.js";import{a as t}from"./chunk-QCNJXW6T.js";import{a as r}from"./chunk-JEXN7WK4.js";import{a as o}from"./chunk-6QNS3HZL.js";function i(){return o("div",{class:"scoreContainer",children:[t.map(function(n,c){return o(e,{index:c,value:0,text:n,color:"black",textColor:"DodgerBlue"})}),o(r,{text:"test"})]})}export{i as a};
