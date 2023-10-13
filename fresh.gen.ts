@@ -3,8 +3,8 @@
 // This file is automatically updated during development when running `dev.ts`.
 
 import * as $0 from "./routes/_app.tsx";
-import * as $1 from "./routes/api/post.ts";
-import * as $2 from "./routes/api/sse.ts";
+import * as $1 from "./routes/api/dispatch.ts";
+import * as $2 from "./routes/api/post.ts";
 import * as $3 from "./routes/index.tsx";
 import * as $$0 from "./islands/Canvas.tsx";
 import * as $$1 from "./islands/Die.tsx";
@@ -20,8 +20,8 @@ import * as $$9 from "./islands/ViewController.tsx";
 const manifest = {
   routes: {
     "./routes/_app.tsx": $0,
-    "./routes/api/post.ts": $1,
-    "./routes/api/sse.ts": $2,
+    "./routes/api/dispatch.ts": $1,
+    "./routes/api/post.ts": $2,
     "./routes/index.tsx": $3,
   },
   islands: {
