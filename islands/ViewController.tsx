@@ -19,7 +19,7 @@ import Player from './Player.tsx'
 const t = Date.now().toString()
 export const myID = 'P-' + t.substring(t.length-3)
 
-// // show any popup messages from peers
+// show any popup messages from peers
 signaler.onEvent('ShowPopup', (data: {title:string, msg:string}) => {
     fire('ShowPopup', data)
 })
