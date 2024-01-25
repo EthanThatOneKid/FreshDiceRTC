@@ -1,7 +1,11 @@
 # Fresh Dice
-   
+     
 ## Two Player Poker Dice Game.
 This two-player game leverages WebRTC-DataChannel and Deno-Deploy BroadcastChannel.
+
+# Caution:
+## The following has unresolved issues!
+## BroadcastChannel has become unreliable!
 SEE: https://github.com/nhrones/comms
 # fresh project
  
